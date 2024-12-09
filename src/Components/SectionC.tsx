@@ -1,4 +1,4 @@
-import CardA from "./Card";
+
 import SectionCIMG from "../Assets/SectionC-card.png"
 
 

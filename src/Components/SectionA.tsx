@@ -1,4 +1,3 @@
-import CardA from "./Card";
 
 export default function SectionA() {
 

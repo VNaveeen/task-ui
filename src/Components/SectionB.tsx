@@ -1,4 +1,4 @@
-import Card1 from "../Assets/SectionB-card1.jpg"
+
 
 export default function SectionB() {
 

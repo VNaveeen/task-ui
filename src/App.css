@@ -517,10 +517,12 @@
   position: absolute;
   top: 50%; 
   left: 50%; 
-  transform: translate(-75%, -50%);
+  transform: translate(-50%, -50%);
   border: 1px solid #3d3f46;
   border-radius: 50%; 
-  padding: 10px; 
+  padding: 3px 10px;
+  width: 40px;
+  height: 40px; 
 }
 
 .arrow2-container {
@@ -536,10 +538,12 @@
   position: absolute;
   top: 50%; 
   left: 50%; 
-  transform: translate(-25%, -50%); 
+  transform: translate(-50%, -50%); 
   border: 1px solid #3d3f46;
   border-radius: 50%; 
-  padding: 10px; 
+  padding: 3px 10px;
+  width: 40px;
+  height: 40px;
 }
 
 
